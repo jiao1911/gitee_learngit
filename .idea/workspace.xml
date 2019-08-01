@@ -119,8 +119,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/test/jiao/controller/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+            <state relative-caret-position="15">
+              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#966#967#0" expanded="true" />
@@ -237,7 +237,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="1084" />
     <option name="height" value="1047" />
@@ -382,6 +382,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSP" />
@@ -460,7 +461,7 @@
       <workItem from="1563945712830" duration="183000" />
       <workItem from="1563946006296" duration="40724000" />
       <workItem from="1564106634148" duration="614000" />
-      <workItem from="1564107285355" duration="98174000" />
+      <workItem from="1564107285355" duration="98555000" />
     </task>
     <servers />
   </component>
@@ -473,11 +474,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171925000" />
+    <option name="totallyTimeSpent" value="172306000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14232409" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -490,15 +490,15 @@
       <window_info id="Bean Validation" order="8" weight="0.015991472" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.35357916" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.35357916" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4767064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.46153846" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.35357916" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.1928494" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" weight="0.32936078" />
@@ -792,8 +792,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/test/jiao/controller/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        <state relative-caret-position="15">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#966#967#0" expanded="true" />
