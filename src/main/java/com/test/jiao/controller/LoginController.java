@@ -70,22 +70,6 @@ public class LoginController<userLogin> {
         return userService.deleteUser(user);
     }
 
-//    @GetMapping(value = "/delete")
-//    public String deleteUser(){
-//        return "delete";
-//    }
-//    @ApiOperation(value = "删除", notes = "根据Id删除用户")
-//    @RequestMapping(value = "/deleteUser", method = RequestMethod.GET)
-//    @ResponseBody
-//    public String deleteUser(User user, Model model) {
-//        boolean test = userService.test(user);
-//        if (test) {
-//            model.addAttribute("Id", user.getId());
-//            return "用户名" + user.getUsername() + "删除成功!";
-//        } else {
-//            return "该用户不存在!";
-//        }
-//    }
 
 //    @ApiOperation(value = "查询", notes = "输入用户名查询用户信息")
 //    @RequestMapping(value = "/selectUser", method = RequestMethod.GET)
